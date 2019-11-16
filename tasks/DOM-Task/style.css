@@ -1,0 +1,12 @@
+.my-form{
+    width: 600px;
+    display: flex;
+    text-align: start;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
